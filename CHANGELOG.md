@@ -5,3 +5,4 @@
 - 2024-12-08: add events for tracking
 - 2024-12-12: add security notes
 - 2024-12-12: add whitelist merkle verification
+- 2024-12-14: configure hardhat network
