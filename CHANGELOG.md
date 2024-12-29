@@ -6,3 +6,4 @@
 - 2024-12-12: add security notes
 - 2024-12-12: add whitelist merkle verification
 - 2024-12-14: configure hardhat network
+- 2024-12-29: wire up wallet connect
