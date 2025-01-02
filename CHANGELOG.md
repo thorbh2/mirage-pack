@@ -9,3 +9,4 @@
 - 2024-12-29: wire up wallet connect
 - 2024-12-30: bump dependency versions
 - 2024-12-30: improve error handling in deploy script
+- 2025-01-02: add events for tracking
