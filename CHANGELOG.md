@@ -11,3 +11,4 @@
 - 2024-12-30: improve error handling in deploy script
 - 2025-01-02: add events for tracking
 - 2025-01-08: configure hardhat network
+- 2025-01-09: optimize tokenURI loop
